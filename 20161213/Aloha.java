@@ -5,7 +5,7 @@ public class Aloha{
 			if (i%4==0){
 	System.out.println("Aloha");
 			}else{
-				System.out.println("HAPPY NEW YEAR");
+				System.out.println("HAPPY NEW YEAR MY HEART JYOTI");
 
 			}
 		}
